@@ -1,0 +1,600 @@
+"customer_id","customer_name","active","country_id","country","city","store_id","total_spent","total_rents","first_rental_date","recent_rental_date","rental_months"
+155,"Gail Knight",1,91,"Switzerland","Bern",1,106.76,24,"2005-06-15","2006-02-14",9
+294,"Shelly Watts",1,103,"United States","Dayton",2,105.77,23,"2005-07-06","2005-08-23",2
+506,"Leslie Seward",1,45,"Indonesia","Pontianak",2,123.72,28,"2005-06-15","2005-08-23",3
+30,"Melissa King",1,92,"Taiwan","Lungtan",1,123.66,34,"2005-06-17","2005-08-23",3
+590,"Seth Hannon",1,11,"Bahrain","al-Manama",2,108.76,24,"2005-06-15","2006-02-14",9
+234,"Claudia Fuller",1,53,"Kuwait","Jalib al-Shuyukh",1,106.75,25,"2005-06-15","2006-02-14",9
+358,"Samuel Marlow",1,44,"India","Ranchi",2,75.80,20,"2005-06-15","2005-08-20",3
+139,"Amber Dixon",1,92,"Taiwan","Touliu",1,113.73,27,"2005-06-14","2005-08-23",3
+483,"Vernon Chapa",1,97,"Turkey","Denizli",2,81.83,17,"2005-06-19","2005-08-19",3
+467,"Alvin Deloach",1,60,"Mexico","Cuauhtmoc",2,134.72,28,"2005-06-16","2005-08-23",3
+310,"Daniel Cabral",1,15,"Brazil","Ibirit",2,68.87,13,"2005-07-06","2005-08-22",2
+482,"Maurice Crawley",0,60,"Mexico","Coatzacoalcos",1,125.74,26,"2005-06-20","2005-08-23",3
+361,"Lawrence Lawton",1,19,"Cameroon","Yaound",2,89.71,29,"2005-06-18","2006-02-14",9
+416,"Jeffery Pinson",1,72,"Pakistan","Dadu",2,113.72,28,"2005-06-14","2005-08-23",3
+84,"Sara Perry",1,60,"Mexico","Atlixco",2,128.70,30,"2005-06-15","2005-08-22",3
+102,"Crystal Ford",1,48,"Israel","Ashdod",1,129.70,30,"2005-06-15","2005-08-23",3
+554,"Dwayne Olvera",1,44,"India","Rajkot",1,95.80,20,"2005-06-17","2005-08-23",3
+12,"Nancy Thomas",1,44,"India","Yamuna Nagar",1,93.74,26,"2005-06-16","2005-08-23",3
+491,"Rick Mattox",1,29,"Egypt","Mit Ghamr",2,120.75,25,"2005-06-15","2005-08-23",3
+18,"Carol Garcia",1,69,"Nigeria","Kaduna",2,78.81,19,"2005-06-15","2005-08-20",3
+322,"Jason Morrissey",1,6,"Argentina","Baha Blanca",1,81.81,19,"2005-07-05","2005-08-23",2
+78,"Lori Wood",1,44,"India","Rae Bareli",1,141.69,31,"2005-06-18","2005-08-23",3
+586,"Kirk Stclair",1,92,"Taiwan","Tsaotun",1,50.83,17,"2005-06-15","2005-08-23",3
+337,"Jerry Jordon",1,50,"Japan","Onomichi",1,111.76,24,"2005-07-06","2006-02-14",8
+295,"Daisy Bates",1,80,"Russian Federation","Kolpino",1,125.72,28,"2005-07-05","2006-02-14",8
+579,"Daryl Larue",1,47,"Iraq","Mosul",2,111.73,27,"2005-06-18","2006-02-14",9
+120,"Sylvia Ortiz",1,24,"Colombia","Dos Quebradas",2,134.70,30,"2005-06-15","2006-02-14",9
+465,"Floyd Gandy",1,60,"Mexico","Zapopan",1,68.84,16,"2005-06-15","2005-08-23",3
+81,"Andrea Henderson",1,57,"Madagascar","Mahajanga",1,92.79,21,"2005-06-19","2005-08-23",3
+372,"Steve Mackenzie",1,45,"Indonesia","Probolinggo",2,152.68,32,"2005-06-18","2005-08-23",3
+99,"Emily Diaz",1,86,"South Korea","Kimchon",2,90.77,23,"2005-06-17","2006-02-14",9
+201,"Vicki Fields",1,38,"Germany","Witten",1,91.78,22,"2005-06-17","2005-08-23",3
+499,"Marc Outlaw",1,49,"Italy","Brindisi",2,120.71,29,"2005-06-15","2005-08-23",3
+329,"Frank Waggoner",1,12,"Bangladesh","Jamalpur",2,98.77,23,"2005-07-06","2005-08-22",2
+450,"Jay Robb",1,45,"Indonesia","Surakarta",1,85.75,25,"2005-06-16","2006-02-14",9
+544,"Cody Nolen",1,15,"Brazil","So Bernardo do Campo",2,92.80,20,"2005-06-15","2005-08-23",3
+172,"Bernice Willis",1,97,"Turkey","Batman",1,133.70,30,"2005-06-15","2005-08-23",3
+218,"Vera Mccoy",1,1,"Afghanistan","Kabul",1,67.82,18,"2005-06-15","2005-08-23",3
+417,"Travis Estep",1,82,"Saudi Arabia","al-Qatif",1,91.78,22,"2005-06-17","2006-02-14",9
+131,"Monica Hicks",1,100,"Ukraine","Mukateve",2,112.73,27,"2005-06-16","2005-08-23",3
+390,"Shawn Heaton",1,94,"Thailand","Nakhon Sawan",1,142.69,31,"2005-06-16","2005-08-22",3
+463,"Darrell Power",1,20,"Canada","Halifax",2,89.76,24,"2005-06-15","2005-08-22",3
+378,"Eugene Culpepper",1,23,"China","Shenzhen",1,70.82,18,"2005-06-16","2005-08-22",3
+323,"Matthew Mahan",1,60,"Mexico","Cuautla",2,91.75,25,"2005-07-06","2005-08-23",2
+527,"Cory Meehan",1,13,"Belarus","Mogiljov",1,81.76,24,"2005-06-15","2006-02-14",9
+469,"Wesley Bull",1,87,"Spain","Ourense (Orense)",2,158.65,35,"2005-06-15","2005-08-23",3
+229,"Tamara Nguyen",1,15,"Brazil","Anpolis",1,93.75,25,"2005-06-18","2006-02-14",9
+418,"Jeff East",1,27,"Dominican Republic","San Felipe de Puerto Plata",2,107.70,30,"2005-06-19","2005-08-23",3
+550,"Guy Brownlee",1,23,"China","Zhoushan",2,151.69,31,"2005-06-15","2006-02-14",9
+238,"Nellie Garrett",1,44,"India","Shimoga",1,86.81,19,"2005-06-15","2005-08-23",3
+123,"Shannon Freeman",1,44,"India","Varanasi (Benares)",2,97.77,23,"2005-06-15","2005-08-23",3
+565,"Jaime Nettles",1,74,"Peru","Hunuco",2,118.73,27,"2005-06-15","2005-08-23",3
+576,"Morris Mccarter",1,92,"Taiwan","Fengshan",2,135.68,32,"2005-06-15","2006-02-14",9
+431,"Joel Francisco",1,14,"Bolivia","Sucre",2,92.78,22,"2005-06-16","2006-02-14",9
+100,"Robin Hayes",1,80,"Russian Federation","Jelets",1,101.77,23,"2005-06-15","2006-02-14",9
+346,"Arthur Simpkins",1,80,"Russian Federation","Maikop",1,145.70,30,"2005-06-17","2005-08-23",3
+111,"Carmen Owens",1,104,"Venezuela","Caracas",1,94.75,25,"2005-06-16","2006-02-14",9
+297,"Sherri Rhodes",1,44,"India","Ahmadnagar",1,99.74,26,"2005-07-06","2005-08-23",2
+494,"Ramon Choate",1,28,"Ecuador","Robamba",2,135.70,30,"2005-06-16","2005-08-22",3
+282,"Jenny Castro",1,77,"Puerto Rico","Ponce",2,79.80,20,"2005-07-06","2006-02-14",8
+433,"Don Bone",1,63,"Mozambique","Naala-Porto",1,113.77,23,"2005-07-07","2005-08-23",2
+522,"Arnold Havens",1,75,"Philippines","Santa Rosa",2,161.68,32,"2005-06-15","2005-08-23",3
+545,"Julio Noland",1,100,"Ukraine","Konotop",2,84.81,19,"2005-06-17","2005-08-23",3
+388,"Craig Morrell",1,75,"Philippines","Cavite",2,114.72,28,"2005-06-15","2006-02-14",9
+148,"Eleanor Hunt",1,79,"Runion","Saint-Denis",1,211.55,45,"2005-06-15","2005-08-23",3
+429,"Frederick Isbell",1,50,"Japan","Tsuyama",2,78.84,16,"2005-06-16","2005-08-21",3
+489,"Ricardo Meador",1,50,"Japan","Okayama",1,91.81,19,"2005-06-16","2005-08-23",3
+509,"Raul Fortier",1,44,"India","Chapra",1,86.82,18,"2005-06-15","2005-08-23",3
+5,"Elizabeth Brown",1,92,"Taiwan","Nantou",1,134.65,35,"2005-06-15","2006-02-14",9
+529,"Erik Guillen",1,44,"India","Bhimavaram",2,115.72,28,"2005-06-15","2005-08-22",3
+334,"Raymond Mcwhorter",1,10,"Azerbaijan","Sumqayit",2,108.75,25,"2005-07-06","2006-02-14",8
+441,"Mario Cheatham",1,2,"Algeria","Batna",1,107.73,27,"2005-06-16","2006-02-14",9
+383,"Martin Bales",1,4,"Angola","Namibe",1,93.75,25,"2005-06-16","2005-08-23",3
+480,"Corey Hauser",1,97,"Turkey","Gaziantep",1,83.81,19,"2005-06-15","2005-08-23",3
+597,"Freddie Duggan",1,74,"Peru","Sullana",1,87.77,23,"2005-06-18","2006-02-14",9
+79,"Rachel Barnes",1,50,"Japan","Kamakura",1,73.81,19,"2005-06-20","2005-08-21",3
+387,"Jesse Schilling",1,25,"Congo, The Democratic Republic of the","Lubumbashi",2,79.78,22,"2005-06-15","2005-08-22",3
+305,"Richard Mccrary",1,103,"United States","Arlington",1,87.80,20,"2005-07-07","2005-08-23",2
+199,"Beth Franklin",1,105,"Vietnam","Haiphong",2,95.76,24,"2005-06-15","2006-02-14",9
+393,"Philip Causey",1,80,"Russian Federation","Korolev",1,115.71,29,"2005-06-16","2005-08-23",3
+217,"Agnes Bishop",1,44,"India","Sambhal",2,86.79,21,"2005-06-15","2005-08-22",3
+38,"Martha Gonzalez",1,61,"Moldova","Chisinau",1,127.66,34,"2005-06-15","2005-08-23",3
+178,"Marion Snyder",1,15,"Brazil","Santa Brbara dOeste",2,194.61,39,"2005-06-15","2006-02-14",9
+20,"Sharon Robinson",1,72,"Pakistan","Mardan",2,103.73,27,"2005-06-16","2005-08-23",3
+521,"Roland South",1,23,"China","Yingkou",2,80.77,23,"2005-06-16","2006-02-14",9
+277,"Olga Jimenez",1,69,"Nigeria","Ogbomosho",2,108.76,24,"2005-07-06","2005-08-22",2
+350,"Juan Fraley",1,80,"Russian Federation","Teboksary",1,63.79,21,"2005-06-17","2005-08-23",3
+407,"Dale Ratcliff",1,85,"South Africa","Rustenburg",1,104.74,26,"2005-06-16","2005-08-22",3
+563,"Ken Prewitt",1,78,"Romania","Bucuresti",2,99.73,27,"2005-06-16","2005-08-23",3
+382,"Victor Barkley",1,103,"United States","Manchester",2,85.78,22,"2005-06-18","2005-08-23",3
+518,"Gabriel Harder",1,97,"Turkey","Sivas",1,108.75,25,"2005-06-16","2005-08-23",3
+341,"Peter Menard",1,67,"Netherlands","Ede",1,103.78,22,"2005-06-15","2005-08-23",3
+301,"Robert Baughman",1,80,"Russian Federation","Kaliningrad",2,71.85,15,"2005-07-07","2005-08-22",2
+374,"Jeremy Hurtado",1,15,"Brazil","Vitria de Santo Anto",2,98.75,25,"2005-06-16","2006-02-14",9
+392,"Sean Douglass",1,31,"Ethiopia","Addis Abeba",2,91.77,23,"2005-06-16","2005-08-21",3
+222,"Delores Hansen",1,80,"Russian Federation","Jaroslavl",2,71.84,16,"2005-06-15","2005-08-21",3
+336,"Joshua Mark",1,44,"India","Rampur",1,93.78,22,"2005-07-07","2006-02-14",8
+232,"Constance Reid",1,69,"Nigeria","Zaria",2,86.77,23,"2005-06-16","2005-08-23",3
+275,"Carole Barnett",1,103,"United States","Peoria",2,92.75,25,"2005-07-07","2005-08-23",2
+471,"Dean Sauer",1,85,"South Africa","Johannesburg",1,106.74,26,"2005-06-15","2005-08-23",3
+304,"David Royal",1,74,"Peru","Callao",2,79.81,19,"2005-07-08","2005-08-22",2
+210,"Ella Oliver",1,107,"Yemen","Aden",2,134.70,30,"2005-06-15","2005-08-23",3
+340,"Patrick Newsom",1,105,"Vietnam","Hanoi",1,83.77,23,"2005-07-08","2005-08-22",2
+422,"Melvin Ellington",1,23,"China","Laohekou",1,96.75,25,"2005-06-17","2006-02-14",9
+121,"Josephine Gomez",1,44,"India","Etawah",1,104.75,25,"2005-06-16","2005-08-23",3
+578,"Willard Lumpkin",1,60,"Mexico","Carmen",2,95.79,21,"2005-06-16","2005-08-23",3
+235,"Jackie Lynch",1,24,"Colombia","Buenaventura",1,89.77,23,"2005-06-15","2005-08-22",3
+474,"Dustin Gillette",1,67,"Netherlands","Emmen",2,92.75,25,"2005-06-16","2006-02-14",9
+391,"Clarence Gamez",1,50,"Japan","Izumisano",1,79.75,25,"2005-06-15","2005-08-21",3
+273,"Priscilla Lowe",1,60,"Mexico","Salamanca",2,130.72,28,"2005-07-06","2005-08-23",2
+243,"Lydia Burke",1,6,"Argentina","San Miguel de Tucumn",1,77.77,23,"2005-06-15","2005-08-21",3
+443,"Francisco Skidmore",1,15,"Brazil","So Leopoldo",2,93.79,21,"2005-06-20","2005-08-23",3
+168,"Regina Berry",1,23,"China","Jinchang",1,129.68,32,"2005-06-15","2006-02-14",9
+262,"Patsy Davidson",1,28,"Ecuador","Portoviejo",2,114.73,27,"2005-06-16","2005-08-23",3
+181,"Ana Bradley",1,103,"United States","Memphis",2,167.67,33,"2005-06-16","2006-02-14",9
+355,"Terry Grissom",1,50,"Japan","Matsue",2,68.81,19,"2005-06-15","2006-02-14",9
+366,"Brandon Huey",1,97,"Turkey","Balikesir",1,145.64,36,"2005-06-15","2006-02-14",9
+66,"Janice Ward",1,90,"Sweden","Malm",2,139.67,33,"2005-06-15","2005-08-23",3
+328,"Jeffrey Spear",1,45,"Indonesia","Ciparay",2,65.83,17,"2005-07-09","2005-08-23",2
+584,"Salvador Teel",1,37,"Gambia","Banjul",2,114.73,27,"2005-06-15","2005-08-23",3
+493,"Brent Harkins",1,97,"Turkey","Sultanbeyli",1,104.78,22,"2005-06-17","2006-02-14",9
+486,"Glen Talbert",1,60,"Mexico","Acua",1,100.77,23,"2005-06-17","2005-08-21",3
+156,"Bertha Ferguson",1,69,"Nigeria","Ondo",1,89.77,23,"2005-06-17","2005-08-22",3
+570,"Ivan Cromwell",1,60,"Mexico","Monclova",2,91.75,25,"2005-06-15","2006-02-14",9
+253,"Terry Carlson",1,50,"Japan","Miyakonojo",1,116.74,26,"2005-06-15","2005-08-22",3
+444,"Marcus Hidalgo",1,30,"Estonia","Tartu",2,105.72,28,"2005-06-15","2005-08-23",3
+448,"Miguel Betancourt",1,38,"Germany","Erlangen",1,127.73,27,"2005-06-15","2006-02-14",9
+58,"Jean Bell",1,59,"Malaysia","Kuching",1,105.76,24,"2005-06-18","2006-02-14",9
+497,"Gilbert Sledge",1,102,"United Kingdom","York",2,121.73,27,"2005-06-18","2006-02-14",9
+212,"Wilma Richards",1,103,"United States","Bellevue",2,91.80,20,"2005-06-15","2005-08-23",3
+315,"Kenneth Gooden",0,48,"Israel","Bat Yam",2,67.86,14,"2005-07-07","2006-02-14",8
+137,"Rhonda Kennedy",1,67,"Netherlands","Apeldoorn",2,191.62,38,"2005-06-18","2005-08-23",3
+415,"Glenn Pullen",1,67,"Netherlands","Amersfoort",1,88.78,22,"2005-06-17","2005-08-23",3
+260,"Christy Vargas",1,23,"China","Datong",1,113.70,30,"2005-06-16","2005-08-21",3
+583,"Marshall Thorn",1,102,"United Kingdom","Southampton",1,117.77,23,"2005-06-15","2005-08-21",3
+411,"Norman Currier",1,45,"Indonesia","Cianjur",1,73.76,24,"2005-06-17","2006-02-14",9
+152,"Alicia Mills",1,44,"India","Nagaon",1,73.81,19,"2005-06-20","2006-02-14",8
+135,"Juanita Mason",1,44,"India","Pune",2,100.72,28,"2005-06-15","2006-02-14",9
+538,"Ted Breaux",1,23,"China","Baicheng",2,109.73,27,"2005-06-15","2005-08-22",3
+3,"Linda Williams",1,39,"Greece","Athenai",1,130.76,24,"2005-06-16","2005-08-23",3
+8,"Susan Wilson",1,68,"New Zealand","Hamilton",2,85.77,23,"2005-06-15","2005-08-23",3
+182,"Renee Lane",1,103,"United States","Compton",1,101.72,28,"2005-06-16","2005-08-22",3
+320,"Anthony Schwab",1,3,"American Samoa","Tafuna",2,47.85,15,"2005-07-06","2005-08-22",2
+555,"Dwight Lombardi",1,85,"South Africa","Chatsworth",1,74.83,17,"2005-06-21","2005-08-22",3
+257,"Marsha Douglas",1,63,"Mozambique","Beira",2,142.66,34,"2005-06-19","2005-08-23",3
+44,"Marie Turner",1,80,"Russian Federation","Lipetsk",1,101.79,21,"2005-06-15","2006-02-14",9
+205,"Eileen Carr",1,73,"Paraguay","Ciudad del Este",2,80.82,18,"2005-06-15","2005-08-22",3
+119,"Sherry Marshall",1,29,"Egypt","Shubra al-Khayma",1,139.69,31,"2005-06-15","2005-08-23",3
+83,"Louise Jenkins",1,85,"South Africa","Springs",1,96.78,22,"2005-06-15","2006-02-14",9
+556,"Armando Gruber",1,102,"United Kingdom","Southport",2,72.82,18,"2005-06-17","2005-08-23",3
+114,"Grace Ellis",1,38,"Germany","Duisburg",2,126.70,30,"2005-06-17","2006-02-14",9
+453,"Calvin Martel",1,104,"Venezuela","Maracabo",1,111.77,23,"2005-06-19","2005-08-23",3
+126,"Ellen Simpson",1,15,"Brazil","Po",1,102.75,25,"2005-06-21","2005-08-23",3
+62,"Joan Cooper",1,103,"United States","Saint Louis",1,78.79,21,"2005-06-15","2005-08-23",3
+118,"Kim Cruz",1,103,"United States","Grand Prairie",1,76.80,20,"2005-06-16","2005-08-23",3
+271,"Penny Neal",0,44,"India","Kumbakonam",1,56.84,16,"2005-07-06","2005-08-22",2
+487,"Hector Poindexter",1,80,"Russian Federation","Pjatigorsk",2,119.74,26,"2005-06-20","2005-08-23",3
+306,"Charles Kowalski",1,59,"Malaysia","Sungai Petani",1,119.72,28,"2005-07-06","2005-08-23",2
+495,"Charlie Bess",1,23,"China","Baiyin",2,110.76,24,"2005-06-17","2006-02-14",9
+23,"Sarah Lewis",1,54,"Latvia","Liepaja",2,106.73,27,"2005-06-19","2006-02-14",8
+2,"Patricia Johnson",1,103,"United States","San Bernardino",1,123.74,26,"2005-06-17","2005-08-23",3
+537,"Clinton Buford",1,103,"United States","Aurora",2,98.76,24,"2005-06-15","2006-02-14",9
+107,"Florence Woods",1,6,"Argentina","Merlo",1,114.72,28,"2005-06-15","2006-02-14",9
+299,"James Gannon",1,50,"Japan","Hiroshima",2,84.79,21,"2005-07-06","2005-08-22",2
+531,"Jamie Waugh",1,50,"Japan","Kuwana",2,110.77,23,"2005-06-20","2005-08-22",3
+252,"Mattie Hoffman",1,102,"United Kingdom","London",2,58.80,20,"2005-06-15","2006-02-14",9
+7,"Maria Miller",1,108,"Yugoslavia","Kragujevac",1,130.72,28,"2005-06-16","2005-08-21",3
+133,"Pauline Henry",1,60,"Mexico","Torren",1,88.75,25,"2005-06-16","2005-08-23",3
+255,"Irma Pearson",1,75,"Philippines","Hagonoy",2,70.82,18,"2005-06-15","2005-08-21",3
+333,"Andrew Purdy",1,10,"Azerbaijan","Baku",2,89.78,22,"2005-07-09","2005-08-22",2
+69,"Judy Gray",1,2,"Algeria","Bchar",2,89.77,23,"2005-06-16","2006-02-14",9
+520,"Mitchell Westmoreland",1,105,"Vietnam","Nha Trang",2,127.69,31,"2005-06-15","2005-08-23",3
+456,"Ronnie Ricketts",1,83,"Senegal","Ziguinchor",2,95.76,24,"2005-06-15","2005-08-23",3
+592,"Terrance Roush",0,43,"Hungary","Szkesfehrvr",1,111.71,29,"2005-06-14","2006-02-14",9
+192,"Laurie Lawrence",1,44,"India","Firozabad",1,97.78,22,"2005-06-19","2006-02-14",8
+434,"Eddie Tomlin",1,75,"Philippines","Ozamis",1,122.74,26,"2005-06-15","2005-08-22",3
+82,"Kathryn Coleman",1,100,"Ukraine","Simferopol",1,118.76,24,"2005-06-15","2005-08-23",3
+244,"Viola Hanson",1,75,"Philippines","Lapu-Lapu",2,122.70,30,"2005-06-15","2006-02-14",9
+170,"Beatrice Arnold",1,44,"India","Udaipur",1,109.77,23,"2005-06-17","2005-08-23",3
+28,"Cynthia Young",1,44,"India","Munger (Monghyr)",1,105.70,30,"2005-06-15","2006-02-14",9
+95,"Paula Bryant",1,44,"India","Pathankot",2,72.83,17,"2005-06-15","2005-08-21",3
+397,"Jimmy Schrader",1,80,"Russian Federation","Atinsk",1,104.72,28,"2005-06-16","2005-08-22",3
+524,"Jared Ely",1,45,"Indonesia","Purwakarta",1,81.83,17,"2005-06-15","2005-08-22",3
+552,"Hugh Waldrop",1,23,"China","Haining",2,89.80,20,"2005-06-18","2005-08-23",3
+380,"Russell Brinson",1,76,"Poland","Tychy",1,132.65,35,"2005-06-17","2005-08-23",3
+460,"Leon Bostic",1,24,"Colombia","Florencia",1,97.79,21,"2005-06-15","2005-08-23",3
+413,"Marvin Yee",1,44,"India","Berhampore (Baharampur)",2,65.81,19,"2005-06-17","2005-08-23",3
+568,"Alberto Henning",1,104,"Venezuela","Barcelona",2,66.79,21,"2005-06-16","2006-02-14",9
+202,"Carla Gutierrez",1,44,"India","Bhusawal",2,103.74,26,"2005-06-15","2005-08-23",3
+360,"Ralph Madrigal",1,77,"Puerto Rico","Arecibo",2,144.68,32,"2005-06-15","2005-08-22",3
+185,"Roberta Harper",1,46,"Iran","Shahr-e Kord",1,79.80,20,"2005-06-18","2005-08-21",3
+314,"George Linton",1,15,"Brazil","Sorocaba",1,113.71,29,"2005-07-06","2005-08-23",2
+377,"Howard Fortner",1,46,"Iran","Kermanshah",1,93.74,26,"2005-06-19","2005-08-23",3
+52,"Julie Sanchez",1,87,"Spain","A Corua (La Corua)",1,106.72,28,"2005-06-15","2006-02-14",9
+577,"Clifton Malcolm",1,92,"Taiwan","Tanshui",2,111.74,26,"2005-06-18","2005-08-23",3
+256,"Mabel Holland",1,64,"Myanmar","Monywa",2,97.75,25,"2005-06-16","2005-08-23",3
+559,"Everett Banda",1,29,"Egypt","Bilbays",2,110.72,28,"2005-06-19","2005-08-23",3
+233,"Lillie Kim",1,29,"Egypt","Idfu",2,89.77,23,"2005-06-17","2005-08-23",3
+36,"Kathleen Adams",1,46,"Iran","Arak",2,90.75,25,"2005-06-19","2005-08-23",3
+96,"Diana Alexander",1,103,"United States","Augusta-Richmond County",1,105.73,27,"2005-06-15","2005-08-23",3
+503,"Angel Barclay",1,50,"Japan","Ueda",1,99.72,28,"2005-06-17","2005-08-23",3
+302,"Michael Silverman",1,23,"China","Tiefa",1,113.74,26,"2005-07-08","2005-08-23",2
+157,"Darlene Rose",1,70,"North Korea","Pyongyang",2,107.71,29,"2005-06-18","2005-08-22",3
+330,"Scott Shelley",1,103,"United States","Aurora",1,60.82,18,"2005-07-06","2006-02-14",8
+587,"Sergio Stanfield",1,60,"Mexico","Celaya",1,102.76,24,"2005-06-15","2006-02-14",9
+532,"Neil Renner",1,105,"Vietnam","Cam Ranh",2,149.69,31,"2005-06-16","2006-02-14",9
+74,"Denise Kelly",1,15,"Brazil","Rio Claro",1,96.74,26,"2005-06-18","2005-08-23",3
+219,"Willie Howell",1,6,"Argentina","Vicente Lpez",2,100.75,25,"2005-06-18","2006-02-14",9
+248,"Caroline Bowman",1,103,"United States","Tallahassee",1,37.87,13,"2005-06-17","2005-08-22",3
+186,"Holly Fox",1,44,"India","Haldia",2,111.71,29,"2005-06-15","2006-02-14",9
+451,"Jim Rea",1,60,"Mexico","El Fuerte",1,121.70,30,"2005-06-15","2005-08-23",3
+353,"Jonathan Scarborough",1,60,"Mexico","Pachuca de Soto",1,65.83,17,"2005-06-15","2005-08-23",3
+261,"Deanna Byrd",1,75,"Philippines","Tuguegarao",1,90.78,22,"2005-06-16","2005-08-22",3
+279,"Dianne Shelton",1,46,"Iran","Tabriz",2,114.76,24,"2005-07-08","2006-02-14",8
+21,"Michelle Clark",1,12,"Bangladesh","Tangail",1,146.68,32,"2005-06-18","2006-02-14",9
+335,"Gregory Mauldin",1,96,"Tunisia","Sousse",1,73.78,22,"2005-07-06","2006-02-14",8
+290,"Kristina Chambers",1,104,"Venezuela","Valle de la Pascua",1,80.78,22,"2005-07-07","2005-08-20",2
+197,"Sue Peters",1,23,"China","Changzhou",2,133.68,32,"2005-06-15","2005-08-23",3
+227,"Colleen Burton",1,38,"Germany","Saarbrcken",1,78.78,22,"2005-06-16","2006-02-14",9
+175,"Annette Olson",1,44,"India","Allappuzha (Alleppey)",1,98.76,24,"2005-06-15","2006-02-14",9
+71,"Kathy James",1,75,"Philippines","Baybay",1,116.72,28,"2005-06-17","2005-08-23",3
+535,"Javier Elrod",1,21,"Chad","NDjamna",1,122.72,28,"2005-06-16","2005-08-23",3
+384,"Ernest Stepp",1,23,"China","Huaian",2,77.79,21,"2005-06-17","2005-08-22",3
+276,"Brandy Graves",1,103,"United States","Warren",1,94.77,23,"2005-07-06","2005-08-23",2
+97,"Annie Russell",1,63,"Mozambique","Tete",2,58.82,18,"2005-06-17","2005-08-22",3
+332,"Stephen Qualls",1,12,"Bangladesh","Dhaka",1,107.74,26,"2005-07-07","2005-08-22",2
+35,"Virginia Green",1,34,"France","Toulouse",2,118.70,30,"2005-06-16","2005-08-21",3
+25,"Deborah Walker",1,72,"Pakistan","Shikarpur",1,104.73,27,"2005-06-15","2005-08-23",3
+543,"Lance Pemberton",1,62,"Morocco","Beni-Mellal",1,73.80,20,"2005-06-16","2005-08-23",3
+37,"Pamela Baker",1,23,"China","Nanyang",1,91.79,21,"2005-06-16","2005-08-23",3
+440,"Bernard Colby",1,44,"India","Dhule (Dhulia)",1,83.79,21,"2005-07-07","2006-02-14",8
+113,"Cindy Fisher",1,104,"Venezuela","Cuman",2,111.73,27,"2005-06-17","2005-08-23",3
+381,"Bobby Boudreau",1,5,"Anguilla","South Hill",2,99.68,32,"2005-06-15","2005-08-23",3
+525,"Adrian Clary",1,49,"Italy","Udine",2,68.82,18,"2005-06-16","2006-02-14",9
+147,"Joanne Robertson",1,50,"Japan","Urawa",2,125.68,32,"2005-06-18","2005-08-23",3
+404,"Stanley Scroggins",1,50,"Japan","Omiya",2,133.71,29,"2005-06-15","2005-08-22",3
+437,"Randall Neumann",1,27,"Dominican Republic","La Romana",2,85.80,20,"2005-06-18","2005-08-22",3
+130,"Charlotte Hunter",1,15,"Brazil","guas Lindas de Gois",1,87.78,22,"2005-06-16","2005-08-23",3
+41,"Stephanie Mitchell",1,7,"Armenia","Yerevan",1,118.75,25,"2005-06-19","2006-02-14",9
+513,"Duane Tubbs",1,65,"Nauru","Yangor",2,143.70,30,"2005-06-16","2005-08-23",3
+553,"Max Pitt",1,108,"Yugoslavia","Novi Sad",1,102.77,23,"2005-06-17","2005-08-23",3
+239,"Minnie Romero",1,45,"Indonesia","Ciomas",2,108.72,28,"2005-06-14","2005-08-20",3
+281,"Leona Obrien",1,23,"China","Fuzhou",2,32.90,10,"2005-07-08","2005-08-21",2
+194,"Kristen Chavez",1,50,"Japan","Hino",2,74.84,16,"2005-06-15","2005-08-23",3
+326,"Jose Andrew",1,81,"Saint Vincent and the Grenadines","Kingstown",1,64.82,18,"2005-07-06","2005-08-19",2
+48,"Ann Evans",1,80,"Russian Federation","Niznekamsk",1,67.86,14,"2005-06-16","2005-08-22",3
+215,"Jessie Banks",1,17,"Bulgaria","Stara Zagora",2,81.76,24,"2005-06-15","2006-02-14",9
+270,"Leah Curtis",1,76,"Poland","Kalisz",1,75.81,19,"2005-07-06","2005-08-23",2
+94,"Norma Gonzales",1,75,"Philippines","Bislig",1,71.81,19,"2005-06-15","2006-02-14",9
+599,"Austin Cintron",1,23,"China","Tieli",2,78.82,18,"2005-06-18","2005-08-23",3
+572,"Sidney Burleson",1,76,"Poland","Czestochowa",1,100.76,24,"2005-06-17","2005-08-20",3
+89,"Julia Flores",1,6,"Argentina","La Plata",1,124.71,29,"2005-06-15","2005-08-23",3
+149,"Valerie Black",1,103,"United States","Brockton",1,116.75,25,"2005-06-15","2005-08-23",3
+475,"Pedro Chestnut",1,100,"Ukraine","ostka",2,97.78,22,"2005-07-06","2005-08-22",2
+98,"Lillian Griffin",1,101,"United Arab Emirates","al-Ayn",1,102.76,24,"2005-06-15","2005-08-23",3
+129,"Carrie Porter",1,23,"China","Liaocheng",1,124.66,34,"2005-06-16","2005-08-22",3
+528,"Claude Herzog",1,4,"Angola","Benguela",1,93.80,20,"2005-06-17","2005-08-23",3
+479,"Zachary Hite",1,103,"United States","Akron",1,134.71,29,"2005-06-17","2006-02-14",9
+153,"Suzanne Nichols",1,45,"Indonesia","Jakarta",2,94.76,24,"2005-06-18","2005-08-23",3
+45,"Janet Phillips",1,22,"Chile","Antofagasta",1,124.74,26,"2005-06-16","2005-08-23",3
+57,"Evelyn Morgan",1,55,"Liechtenstein","Vaduz",2,99.74,26,"2005-06-17","2005-08-23",3
+476,"Derrick Bourque",1,20,"Canada","Gatineau",1,87.80,20,"2005-06-16","2006-02-14",9
+254,"Maxine Silva",1,15,"Brazil","Poos de Caldas",2,107.70,30,"2005-06-15","2005-08-23",3
+138,"Hazel Warren",1,23,"China","Hohhot",1,106.68,32,"2005-06-15","2005-08-23",3
+478,"Lewis Lyman",1,48,"Israel","Ashqelon",1,86.81,19,"2005-06-16","2005-08-23",3
+60,"Mildred Bailey",1,44,"India","Jaipur",1,88.78,22,"2005-06-15","2006-02-14",9
+296,"Ramona Hale",1,44,"India","Patiala",2,103.77,23,"2005-07-05","2006-02-14",8
+455,"Jon Wiles",1,14,"Bolivia","El Alto",2,85.78,22,"2005-06-15","2005-08-23",3
+176,"June Carroll",1,2,"Algeria","Skikda",1,151.68,32,"2005-06-15","2005-08-23",3
+246,"Marian Mendoza",1,15,"Brazil","Maring",1,76.82,18,"2005-06-15","2005-08-23",3
+581,"Virgil Wofford",1,60,"Mexico","Jos Azueta",1,97.75,25,"2005-06-17","2005-08-23",3
+352,"Albert Crouse",1,19,"Cameroon","Bamenda",1,96.78,22,"2005-06-15","2006-02-14",9
+189,"Loretta Carpenter",1,20,"Canada","Oshawa",1,87.79,21,"2005-06-16","2005-08-23",3
+160,"Erin Dunn",1,80,"Russian Federation","Ljubertsy",2,106.73,27,"2005-06-18","2005-08-23",3
+50,"Diane Collins",1,89,"Sudan","Omdurman",1,144.70,30,"2005-06-15","2005-08-23",3
+224,"Pearl Garza",1,44,"India","Jodhpur",2,76.78,22,"2005-06-15","2005-08-23",3
+484,"Roberto Vu",1,23,"China","Yinchuan",1,128.73,27,"2005-06-15","2005-08-23",3
+541,"Darren Windham",1,49,"Italy","Livorno",2,95.78,22,"2005-06-17","2005-08-23",3
+408,"Manuel Murrell",1,88,"Sri Lanka","Jaffna",1,103.73,27,"2005-06-18","2005-08-23",3
+285,"Miriam Mckinney",1,50,"Japan","Otsu",1,117.77,23,"2005-07-07","2005-08-23",2
+567,"Alfredo Mcadams",1,80,"Russian Federation","Serpuhov",2,85.80,20,"2005-06-19","2005-08-23",3
+196,"Alma Austin",1,38,"Germany","Mannheim",1,128.69,31,"2005-06-15","2005-08-23",3
+85,"Anne Powell",1,102,"United Kingdom","Bradford",2,72.79,21,"2005-06-16","2005-08-20",3
+31,"Brenda Wright",1,44,"India","Kamarhati",2,104.74,26,"2005-06-16","2005-08-23",3
+436,"Troy Quigley",1,20,"Canada","Vancouver",1,126.73,27,"2005-06-18","2005-08-23",3
+357,"Keith Rico",1,84,"Slovakia","Bratislava",1,80.77,23,"2005-06-15","2005-08-23",3
+108,"Tracy Cole",1,60,"Mexico","Huixquilucan",1,126.72,28,"2005-06-15","2006-02-14",9
+364,"Benjamin Varney",1,60,"Mexico","Guadalajara",1,89.78,22,"2005-06-16","2005-08-22",3
+425,"Francis Sikes",1,60,"Mexico","San Juan Bautista Tuxtepec",2,98.75,25,"2005-06-21","2005-08-23",3
+457,"Bill Gavin",1,103,"United States","Rockford",2,106.73,27,"2005-06-15","2006-02-14",9
+187,"Brittany Riley",1,100,"Ukraine","Sumy",2,151.73,27,"2005-06-15","2005-08-23",3
+596,"Enrique Forsythe",1,39,"Greece","Patras",1,73.78,22,"2005-06-16","2006-02-14",9
+558,"Jimmie Eggleston",0,76,"Poland","Wroclaw",1,135.72,28,"2005-06-17","2005-08-21",3
+363,"Roy Whiting",1,52,"Kenya","Nyeri",2,139.72,28,"2005-06-15","2005-08-22",3
+225,"Arlene Harvey",1,44,"India","Ambattur",1,111.76,24,"2005-06-18","2005-08-21",3
+200,"Jeanne Lawson",1,98,"Turkmenistan","Ashgabat",2,126.74,26,"2005-06-15","2006-02-14",9
+39,"Debra Nelson",1,15,"Brazil","Vila Velha",1,141.71,29,"2005-06-16","2005-08-22",3
+193,"Katie Elliott",1,52,"Kenya","Kisumu",2,105.77,23,"2005-06-15","2006-02-14",9
+439,"Alexander Fennell",1,49,"Italy","Bergamo",2,137.67,33,"2005-06-15","2005-08-23",3
+198,"Elsie Kelley",1,69,"Nigeria","Ikerre",2,124.68,32,"2005-06-18","2005-08-23",3
+284,"Sonia Gregory",1,69,"Nigeria","Benin City",1,108.78,22,"2005-07-06","2006-02-14",8
+492,"Lester Kraus",1,44,"India","Kanchrapara",2,62.85,15,"2005-06-16","2005-08-23",3
+208,"Lucy Wheeler",1,44,"India","Balurghat",1,86.75,25,"2005-06-16","2006-02-14",9
+396,"Earl Shanks",1,50,"Japan","Iwatsuki",1,105.74,26,"2005-06-15","2005-08-22",3
+269,"Cassandra Walters",1,103,"United States","Salinas",1,96.79,21,"2005-07-07","2006-02-14",8
+488,"Shane Millard",1,60,"Mexico","La Paz",2,95.78,22,"2005-06-16","2005-08-23",3
+204,"Rosemary Schmidt",1,97,"Turkey","Usak",1,134.69,31,"2005-06-15","2005-08-22",3
+319,"Ronald Weiner",1,60,"Mexico","San Felipe del Progreso",2,93.79,21,"2005-07-07","2005-08-22",2
+510,"Ben Easter",0,80,"Russian Federation","Kamyin",2,102.77,23,"2005-06-15","2005-08-22",3
+87,"Wanda Patterson",1,24,"Colombia","Sincelejo",1,137.72,28,"2005-06-16","2006-02-14",9
+504,"Nathaniel Adam",1,103,"United States","Joliet",1,117.75,25,"2005-06-19","2005-08-23",3
+400,"Bryan Hardison",1,103,"United States","Dallas",2,105.76,24,"2005-06-15","2005-08-23",3
+376,"Randy Gaither",1,80,"Russian Federation","Kurgan",1,109.73,27,"2005-06-15","2005-08-22",3
+368,"Harry Arce",0,46,"Iran","Najafabad",1,139.69,31,"2005-06-15","2005-08-23",3
+132,"Esther Crawford",1,85,"South Africa","Botshabelo",2,95.72,28,"2005-06-16","2005-08-23",3
+56,"Gloria Cook",1,36,"French Polynesia","Papeete",1,115.74,26,"2005-06-16","2006-02-14",9
+464,"Jerome Kenyon",1,22,"Chile","Rancagua",1,67.86,14,"2005-06-15","2005-08-23",3
+385,"Phillip Holm",1,50,"Japan","Tama",1,93.76,24,"2005-06-16","2005-08-23",3
+589,"Tracy Herrmann",1,28,"Ecuador","Loja",1,118.75,25,"2005-06-15","2005-08-23",3
+144,"Clara Shaw",1,13,"Belarus","Molodetno",1,189.60,40,"2005-06-16","2005-08-23",3
+150,"Danielle Daniels",1,60,"Mexico","Hidalgo",2,94.78,22,"2005-06-20","2005-08-21",3
+140,"Eva Ramos",1,103,"United States","Clarksville",1,83.82,18,"2005-06-16","2005-08-23",3
+356,"Gerald Fultz",1,44,"India","Satna",2,116.71,29,"2005-06-15","2005-08-23",3
+560,"Jordan Archuleta",1,6,"Argentina","Avellaneda",1,129.71,29,"2005-06-15","2006-02-14",9
+339,"Walter Perryman",1,23,"China","Xinxiang",2,95.76,24,"2005-07-06","2005-08-21",2
+33,"Anna Hill",1,49,"Italy","Alessandria",2,88.80,20,"2005-06-15","2006-02-14",9
+367,"Adam Gooch",1,44,"India","Adoni",1,97.80,20,"2005-06-20","2005-08-21",3
+424,"Kyle Spurlock",1,23,"China","Shanwei",2,109.71,29,"2005-06-20","2006-02-14",8
+458,"Lloyd Dowd",1,45,"Indonesia","Tegal",1,66.81,19,"2005-06-19","2005-08-23",3
+203,"Tara Ryan",1,45,"Indonesia","Gorontalo",1,87.81,19,"2005-06-15","2005-08-23",3
+214,"Kristin Johnston",1,103,"United States","Sunnyvale",1,103.74,26,"2005-06-15","2006-02-14",9
+105,"Dawn Sullivan",1,99,"Tuvalu","Funafuti",1,93.78,22,"2005-06-16","2005-08-23",3
+519,"Ron Deluca",1,50,"Japan","Isesaki",2,99.78,22,"2005-06-17","2005-08-22",3
+573,"Byron Box",1,51,"Kazakstan","Zhezqazghan",1,117.72,28,"2005-06-16","2005-08-19",3
+249,"Dora Medina",1,23,"China","Tianjin",2,88.81,19,"2005-06-15","2005-08-22",3
+86,"Jacqueline Long",1,94,"Thailand","Songkhla",2,146.68,32,"2005-06-16","2005-08-23",3
+117,"Edith Mcdonald",1,44,"India","Gandhinagar",1,69.83,17,"2005-06-16","2005-08-23",3
+64,"Judith Cox",0,23,"China","Daxian",2,91.70,30,"2005-06-15","2006-02-14",9
+427,"Jesus Mccartney",1,15,"Brazil","Guaruj",2,107.77,23,"2005-06-15","2005-08-22",3
+507,"Edgar Rhoads",1,97,"Turkey","Eskisehir",2,89.77,23,"2005-06-15","2005-08-22",3
+274,"Naomi Jennings",1,44,"India","Karnal",1,116.73,27,"2005-07-06","2006-02-14",8
+347,"Ryan Salisbury",1,54,"Latvia","Daugavpils",2,142.70,30,"2005-06-16","2005-08-23",3
+379,"Carlos Coughlin",1,44,"India","Bhavnagar",1,96.79,21,"2005-06-15","2005-08-23",3
+4,"Barbara Jones",1,64,"Myanmar","Myingyan",2,81.78,22,"2005-06-15","2005-08-23",3
+343,"Douglas Graf",1,60,"Mexico","Mexicali",1,106.77,23,"2005-06-16","2005-08-23",3
+344,"Henry Billingsley",1,95,"Tonga","Nukualofa",1,64.84,16,"2005-06-15","2005-08-22",3
+303,"William Satterfield",1,107,"Yemen","Sanaa",2,70.81,19,"2005-07-09","2005-08-23",2
+512,"Cecil Vines",1,102,"United Kingdom","London",1,115.74,26,"2005-06-15","2006-02-14",9
+106,"Connie Wallace",1,80,"Russian Federation","Ivanovo",1,95.79,21,"2005-06-18","2005-08-22",3
+547,"Kurt Emmons",1,50,"Japan","Kanazawa",1,87.80,20,"2005-06-17","2005-08-22",3
+34,"Rebecca Scott",1,50,"Japan","Kurashiki",2,89.76,24,"2005-06-17","2005-08-21",3
+169,"Erica Matthews",0,23,"China","Pingxiang",2,86.80,20,"2005-06-17","2005-08-23",3
+278,"Billie Horton",1,97,"Turkey","Inegl",2,71.79,21,"2005-07-06","2005-08-23",2
+432,"Edwin Burk",1,85,"South Africa","Newcastle",1,93.80,20,"2005-06-15","2005-08-23",3
+354,"Justin Ngo",1,15,"Brazil","Santo Andr",2,125.67,33,"2005-06-15","2006-02-14",9
+345,"Carl Artis",1,73,"Paraguay","San Lorenzo",1,104.79,21,"2005-06-15","2005-08-23",3
+265,"Jennie Terry",1,26,"Czech Republic","Olomouc",2,132.72,28,"2005-06-17","2005-08-22",3
+449,"Oscar Aquino",1,46,"Iran","Sirjan",2,80.83,17,"2005-06-15","2005-08-22",3
+442,"Leroy Bustamante",1,23,"China","Tongliao",1,104.71,29,"2005-06-15","2005-08-22",3
+158,"Veronica Stone",1,103,"United States","Greensboro",1,115.70,30,"2005-06-15","2005-08-23",3
+1,"Mary Smith",1,50,"Japan","Sasebo",1,114.70,30,"2005-06-15","2005-08-22",3
+72,"Theresa Watson",1,75,"Philippines","Taguig",2,88.73,27,"2005-06-18","2005-08-22",3
+292,"Misty Lambert",1,101,"United Arab Emirates","Sharja",2,102.78,22,"2005-07-06","2005-08-22",2
+127,"Elaine Stevens",1,80,"Russian Federation","Smolensk",2,105.78,22,"2005-06-15","2005-08-23",3
+401,"Tony Carranza",1,50,"Japan","Koriyama",2,61.82,18,"2005-07-07","2005-08-23",2
+32,"Amy Lopez",1,44,"India","Jhansi",1,112.74,26,"2005-06-17","2005-08-21",3
+103,"Gladys Hamilton",1,69,"Nigeria","Ilorin",1,128.71,29,"2005-06-15","2005-08-23",3
+226,"Maureen Little",1,73,"Paraguay","Asuncin",2,87.79,21,"2005-06-21","2005-08-23",3
+124,"Sheila Wells",0,97,"Turkey","Ktahya",1,57.86,14,"2005-06-18","2005-08-23",3
+533,"Jessie Milam",1,23,"China","Binzhou",1,132.70,30,"2005-06-15","2006-02-14",9
+264,"Gwendolyn May",1,50,"Japan","Higashiosaka",1,98.75,25,"2005-06-14","2006-02-14",9
+502,"Brett Cornwell",1,44,"India","Siliguri (Shiliguri)",1,130.70,30,"2005-06-16","2005-08-23",3
+477,"Dan Paine",1,102,"United Kingdom","Stockport",1,106.79,21,"2005-06-16","2005-08-23",3
+526,"Karl Seal",1,103,"United States","Cape Coral",2,208.58,42,"2005-06-15","2005-08-23",3
+77,"Jane Bennett",1,15,"Brazil","Araatuba",2,85.77,23,"2005-06-16","2005-08-22",3
+15,"Helen Harris",1,44,"India","Bhopal",1,134.68,32,"2005-06-18","2006-02-14",9
+348,"Roger Quintanilla",1,92,"Taiwan","Hsichuh",2,144.66,34,"2005-06-16","2005-08-23",3
+530,"Darryl Ashcraft",1,6,"Argentina","Ezeiza",2,75.78,22,"2005-06-15","2006-02-14",9
+316,"Steven Curley",1,44,"India","Miraj",1,80.81,19,"2005-07-07","2005-08-23",2
+65,"Rose Howard",1,35,"French Guiana","Cayenne",2,97.80,20,"2005-06-18","2005-08-21",3
+24,"Kimberly Lee",1,6,"Argentina","Crdoba",2,85.77,23,"2005-06-16","2005-08-22",3
+287,"Becky Miles",1,44,"India","Tambaram",2,80.78,22,"2005-07-08","2006-02-14",8
+311,"Paul Trout",1,80,"Russian Federation","Kursk",2,80.85,15,"2005-07-08","2005-08-23",2
+466,"Leo Ebert",1,23,"China","Dongying",1,101.78,22,"2005-06-16","2005-08-23",3
+289,"Violet Rodriquez",1,42,"Hong Kong","Kowloon and New Kowloon",1,104.76,24,"2005-07-06","2005-08-22",2
+188,"Melanie Armstrong",1,75,"Philippines","Bayugan",1,92.75,25,"2005-06-16","2006-02-14",9
+53,"Heather Morris",1,50,"Japan","Nagareyama",1,88.76,24,"2005-06-17","2006-02-14",9
+317,"Edward Baugh",1,32,"Faroe Islands","Trshavn",2,96.76,24,"2005-07-07","2006-02-14",8
+70,"Christina Ramirez",1,82,"Saudi Arabia","al-Hawiya",2,75.83,17,"2005-06-18","2005-08-23",3
+446,"Theodore Culp",0,44,"India","Uluberia",2,109.72,28,"2005-06-18","2005-08-23",3
+327,"Larry Thrasher",1,97,"Turkey","Adana",2,74.81,19,"2005-07-07","2006-02-14",8
+47,"Frances Parker",1,15,"Brazil","Juazeiro do Norte",1,92.81,19,"2005-06-17","2005-08-23",3
+321,"Kevin Schuler",1,66,"Nepal","Birgunj",1,93.83,17,"2005-07-06","2005-08-23",2
+370,"Wayne Truong",1,44,"India","Gulbarga",2,70.81,19,"2005-06-15","2005-08-23",3
+505,"Rafael Abney",1,75,"Philippines","Talavera",1,91.81,19,"2005-06-16","2006-02-14",9
+325,"Timothy Bunn",1,15,"Brazil","Braslia",1,72.82,18,"2005-07-09","2005-08-22",2
+309,"Christopher Greco",1,49,"Italy","Brescia",1,113.75,25,"2005-07-06","2005-08-22",2
+112,"Rosa Reynolds",1,103,"United States","Lancaster",2,129.72,28,"2005-06-16","2005-08-23",3
+426,"Bradley Motley",1,44,"India","Purnea (Purnia)",1,125.74,26,"2005-06-16","2005-08-22",3
+184,"Vivian Ruiz",1,67,"Netherlands","s-Hertogenbosch",1,80.80,20,"2005-06-17","2005-08-23",3
+395,"Johnny Turpin",1,89,"Sudan","al-Qadarif",2,57.81,19,"2005-06-15","2005-08-23",3
+173,"Audrey Ray",1,9,"Austria","Graz",1,111.73,27,"2005-06-15","2005-08-23",3
+523,"Harvey Guajardo",1,105,"Vietnam","Vinh",1,87.80,20,"2005-06-16","2005-08-22",3
+268,"Nina Soto",1,44,"India","Palghat (Palakkad)",1,96.79,21,"2005-07-06","2005-08-22",2
+412,"Allen Butterfield",1,44,"India","Hoshiarpur",2,74.83,17,"2005-06-21","2006-02-14",8
+540,"Tyrone Asher",1,17,"Bulgaria","Ruse",1,112.76,24,"2005-06-15","2005-08-23",3
+362,"Nicholas Barfield",1,15,"Brazil","Belm",1,140.69,31,"2005-06-15","2005-08-22",3
+288,"Bobbie Craig",1,60,"Mexico","Valle de Santiago",1,52.81,19,"2005-07-06","2005-08-22",2
+266,"Nora Herrera",1,9,"Austria","Salzburg",2,113.74,26,"2005-06-15","2005-08-22",3
+237,"Tanya Gilbert",1,86,"South Korea","Naju",1,138.69,31,"2005-06-15","2005-08-23",3
+515,"Andre Rapp",1,22,"Chile","Coquimbo",1,110.74,26,"2005-06-15","2005-08-22",3
+598,"Wade Delvalle",1,91,"Switzerland","Lausanne",1,83.78,22,"2005-06-20","2005-08-23",3
+247,"Stella Moreno",1,60,"Mexico","Coacalco de Berriozbal",1,88.81,19,"2005-06-18","2005-08-23",3
+394,"Chris Brothers",1,87,"Spain","Gijn",2,77.80,20,"2005-06-15","2006-02-14",9
+207,"Gertrude Castillo",1,40,"Greenland","Nuuk",1,119.72,28,"2005-06-17","2005-08-23",3
+206,"Terri Vasquez",1,15,"Brazil","Blumenau",1,126.73,27,"2005-06-17","2005-08-23",3
+26,"Jessica Hall",1,41,"Holy See (Vatican City State)","Citt del Vaticano",2,146.68,32,"2005-06-15","2005-08-23",3
+183,"Ida Andrews",1,15,"Brazil","Luzinia",2,75.78,22,"2005-06-15","2005-08-20",3
+241,"Heidi Larson",0,23,"China","Xiangfan",2,110.68,32,"2005-06-18","2005-08-23",3
+13,"Karen Jackson",1,97,"Turkey","Osmaniye",2,131.73,27,"2005-06-17","2005-08-22",3
+562,"Wallace Slone",1,69,"Nigeria","Sokoto",1,97.78,22,"2005-06-17","2005-08-23",3
+468,"Tim Cary",1,44,"India","Bijapur",1,154.66,34,"2005-06-15","2005-08-23",3
+151,"Megan Palmer",1,23,"China","Laiwu",2,81.75,25,"2005-06-18","2005-08-23",3
+571,"Johnnie Chisholm",1,76,"Poland","Plock",2,107.78,22,"2005-06-15","2005-08-23",3
+588,"Marion Ocampo",1,23,"China","Weifang",1,107.73,27,"2005-06-17","2005-08-22",3
+514,"Franklin Troutman",1,23,"China","Zaoyang",2,69.79,21,"2005-06-16","2005-08-23",3
+231,"Georgia Jacobs",1,44,"India","Uttarpara-Kotrung",1,88.77,23,"2005-06-18","2005-08-22",3
+263,"Hilda Hopkins",1,75,"Philippines","Mandaluyong",1,116.73,27,"2005-06-17","2006-02-14",9
+49,"Joyce Edwards",1,82,"Saudi Arabia","Jedda",2,116.76,24,"2005-06-14","2005-08-21",3
+534,"Christian Jung",0,44,"India","Amroha",1,81.78,22,"2005-06-16","2006-02-14",9
+308,"Thomas Grigsby",1,103,"United States","Kansas City",1,81.81,19,"2005-07-07","2005-08-23",2
+298,"Erika Pena",1,33,"Finland","Oulu",1,78.79,21,"2005-07-05","2005-08-23",2
+481,"Herman Devore",1,93,"Tanzania","Mwanza",1,109.72,28,"2005-06-14","2005-08-21",3
+291,"Toni Holt",1,103,"United States","Roanoke",1,73.83,17,"2005-07-06","2005-08-23",2
+318,"Brian Wyman",1,76,"Poland","Bydgoszcz",1,27.93,7,"2005-07-06","2005-08-21",2
+338,"Dennis Gilman",1,85,"South Africa","Paarl",1,78.80,20,"2005-07-06","2005-08-22",2
+9,"Margaret Moore",1,71,"Oman","Masqat",2,78.80,20,"2005-06-20","2006-02-14",8
+92,"Tina Simmons",1,15,"Brazil","Goinia",2,122.74,26,"2005-06-17","2005-08-22",3
+312,"Mark Rinehart",1,82,"Saudi Arabia","Tabuk",2,81.80,20,"2005-07-06","2005-08-23",2
+574,"Julian Vest",1,50,"Japan","Akishima",2,108.73,27,"2005-06-16","2005-08-22",3
+402,"Luis Yanez",1,34,"France","Brest",1,77.81,19,"2005-06-15","2005-08-23",3
+236,"Marcia Dean",1,75,"Philippines","Tanza",1,166.61,39,"2005-06-15","2006-02-14",9
+536,"Fernando Churchill",1,86,"South Korea","Tonghae",2,109.77,23,"2005-06-16","2005-08-23",3
+430,"Ray Houle",1,80,"Russian Federation","Dzerzinsk",1,71.80,20,"2005-06-15","2005-08-22",3
+405,"Leonard Schofield",1,6,"Argentina","Tandil",1,101.70,30,"2005-06-15","2006-02-14",9
+307,"Joseph Joy",1,15,"Brazil","Angra dos Reis",2,92.80,20,"2005-07-06","2005-08-23",2
+146,"Jamie Rice",1,103,"United States","Sterling Heights",1,126.73,27,"2005-06-15","2005-08-23",3
+473,"Jorge Olivares",1,45,"Indonesia","Lhokseumawe",2,122.69,31,"2005-06-16","2005-08-23",3
+17,"Donna Thompson",1,80,"Russian Federation","Elista",1,87.82,18,"2005-06-18","2005-08-23",3
+43,"Christine Roberts",1,36,"French Polynesia","Faaa",2,89.78,22,"2005-06-16","2006-02-14",9
+46,"Catherine Campbell",1,80,"Russian Federation","Moscow",2,131.69,31,"2005-06-14","2005-08-23",3
+136,"Anita Morales",1,44,"India","Hubli-Dharwad",2,59.86,14,"2005-06-17","2005-08-23",3
+485,"Clyde Tobias",1,23,"China","Shaoguan",1,112.72,28,"2005-06-16","2005-08-19",3
+228,"Allison Stanley",1,18,"Cambodia","Phnom Penh",2,86.75,25,"2005-06-18","2006-02-14",9
+472,"Greg Robins",1,105,"Vietnam","Nam Dinh",1,131.74,26,"2005-06-15","2006-02-14",9
+398,"Antonio Meek",1,15,"Brazil","Bag",1,73.85,15,"2005-06-15","2005-08-22",3
+209,"Tonya Chapman",1,44,"India","Bhilwara",2,147.71,29,"2005-06-15","2005-08-23",3
+223,"Melinda Fernandez",1,72,"Pakistan","Mandi Bahauddin",1,77.84,16,"2005-06-16","2005-08-23",3
+561,"Ian Still",1,103,"United States","Garland",2,86.75,25,"2005-06-15","2006-02-14",9
+386,"Todd Tan",1,100,"Ukraine","Kamjanets-Podilskyi",1,109.72,28,"2005-06-16","2005-08-23",3
+454,"Alex Gresham",1,60,"Mexico","Uruapan",2,143.68,32,"2005-06-16","2005-08-23",3
+101,"Peggy Myers",1,82,"Saudi Arabia","Abha",1,86.77,23,"2005-07-09","2006-02-14",8
+116,"Victoria Gibson",1,45,"Indonesia","Pemalang",1,106.74,26,"2005-06-15","2005-08-22",3
+548,"Allan Cornish",1,75,"Philippines","Tarlac",1,63.84,16,"2005-06-15","2006-02-14",9
+177,"Samantha Duncan",1,60,"Mexico","Matamoros",2,71.77,23,"2005-06-15","2005-08-22",3
+143,"Leslie Gordon",1,97,"Turkey","Kilis",1,83.80,20,"2005-06-17","2005-08-23",3
+564,"Bob Pfeiffer",1,23,"China","Xintai",2,82.78,22,"2005-06-16","2005-08-22",3
+461,"Derek Blakely",1,75,"Philippines","Gingoog",1,90.73,27,"2005-06-20","2005-08-23",3
+110,"Tiffany Jordan",1,23,"China","Enshi",2,49.88,12,"2005-06-16","2005-08-22",3
+399,"Danny Isom",1,72,"Pakistan","Okara",1,73.82,18,"2005-06-20","2005-08-23",3
+11,"Lisa Anderson",1,50,"Japan","Sagamihara",2,99.77,23,"2005-06-15","2006-02-14",9
+351,"Jack Foust",1,80,"Russian Federation","Zeleznogorsk",1,87.77,23,"2005-06-16","2005-08-23",3
+250,"Jo Fowler",1,69,"Nigeria","Oyo",2,54.85,15,"2005-06-18","2005-08-22",3
+171,"Dolores Wagner",1,59,"Malaysia","Ipoh",2,104.75,25,"2005-06-16","2005-08-23",3
+211,"Stacey Montgomery",1,23,"China","Fuyu",1,146.67,33,"2005-06-19","2006-02-14",8
+167,"Sally Pierce",1,44,"India","Chandrapur",2,108.71,29,"2005-06-15","2005-08-23",3
+109,"Edna West",1,85,"South Africa","Klerksdorp",2,79.81,19,"2005-06-16","2005-08-23",3
+373,"Louis Leone",1,75,"Philippines","Tanauan",1,156.66,34,"2005-06-15","2006-02-14",9
+423,"Alfred Casillas",1,29,"Egypt","Sawhaj",2,120.74,26,"2005-06-15","2005-08-23",3
+251,"Vickie Brewer",1,38,"Germany","Halle/Saale",2,100.75,25,"2005-06-18","2006-02-14",9
+470,"Gordon Allard",1,107,"Yemen","Hodeida",1,157.69,31,"2005-06-15","2005-08-21",3
+593,"Rene Mcalister",1,103,"United States","Garden Grove",2,101.76,24,"2005-06-17","2005-08-21",3
+389,"Alan Kahn",1,23,"China","Emeishan",1,119.75,25,"2005-06-16","2005-08-23",3
+508,"Milton Howland",1,44,"India","Vijayawada",2,121.77,23,"2005-06-16","2006-02-14",9
+259,"Lena Jensen",1,44,"India","Halisahar",2,152.71,29,"2005-06-16","2005-08-23",3
+245,"Courtney Day",1,86,"South Korea","Uijongbu",1,103.74,26,"2005-06-15","2006-02-14",9
+179,"Dana Hart",1,80,"Russian Federation","Kirovo-Tepetsk",1,120.74,26,"2005-06-15","2005-08-23",3
+221,"Bessie Morrison",1,49,"Italy","Syrakusa",1,127.73,27,"2005-06-15","2005-08-22",3
+195,"Vanessa Sims",1,38,"Germany","Siegen",1,86.81,19,"2005-07-07","2005-08-23",2
+67,"Kelly Torres",1,23,"China","Xiangtan",1,86.80,20,"2005-06-17","2005-08-22",3
+242,"Glenda Frazier",1,23,"China","Qinhuangdao",1,128.71,29,"2005-06-15","2005-08-22",3
+40,"Amanda Carter",1,62,"Morocco","Nador",2,105.74,26,"2005-06-18","2005-08-22",3
+61,"Katherine Rivera",1,91,"Switzerland","Basel",2,57.87,13,"2005-07-27","2005-08-23",1
+154,"Michele Grant",1,23,"China","Yuncheng",2,110.73,27,"2005-06-17","2005-08-23",3
+141,"Debbie Reyes",1,50,"Japan","Fukuyama",1,127.69,31,"2005-06-15","2005-08-23",3
+549,"Nelson Christenson",1,87,"Spain","Santiago de Compostela",1,62.84,16,"2005-06-17","2005-08-21",3
+582,"Andy Vanhorn",1,60,"Mexico","Huejutla de Reyes",2,112.76,24,"2005-06-16","2006-02-14",9
+500,"Reginald Kinder",1,45,"Indonesia","Madiun",1,96.75,25,"2005-06-15","2005-08-23",3
+420,"Jacob Lance",1,103,"United States","El Monte",1,74.80,20,"2005-06-19","2005-08-23",3
+216,"Natalie Meyer",1,15,"Brazil","Aparecida de Goinia",1,90.78,22,"2005-06-15","2006-02-14",9
+258,"Myrtle Fleming",1,27,"Dominican Republic","Santiago de los Caballeros",1,110.76,24,"2005-06-16","2005-08-22",3
+76,"Irene Price",1,51,"Kazakstan","Pavlodar",2,74.79,21,"2005-06-15","2005-08-23",3
+54,"Teresa Rogers",1,50,"Japan","Iwakuni",1,114.74,26,"2005-06-16","2005-08-23",3
+19,"Ruth Martinez",1,85,"South Africa","Kimberley",1,98.82,18,"2005-06-19","2005-08-23",3
+27,"Shirley Allen",1,75,"Philippines","Davao",2,123.70,30,"2005-06-15","2005-08-22",3
+591,"Kent Arsenault",1,15,"Brazil","Juiz de Fora",1,134.73,27,"2005-06-15","2005-08-20",3
+516,"Elmer Noe",1,18,"Cambodia","Battambang",2,92.76,24,"2005-06-14","2006-02-14",9
+369,"Fred Wheat",1,60,"Mexico","Jurez",2,69.79,21,"2005-06-15","2006-02-14",9
+128,"Marjorie Tucker",1,76,"Poland","Jastrzebie-Zdrj",1,118.70,30,"2005-06-19","2005-08-23",3
+16,"Sandra Martin",0,102,"United Kingdom","Southend-on-Sea",2,107.76,24,"2005-06-17","2005-08-21",3
+80,"Marilyn Ross",1,69,"Nigeria","Ife",1,137.70,30,"2005-06-19","2006-02-14",9
+300,"John Farnsworth",1,44,"India","Parbhani",1,123.74,26,"2005-07-06","2006-02-14",8
+163,"Cathy Spencer",1,50,"Japan","Kakamigahara",1,122.71,29,"2005-06-15","2006-02-14",9
+122,"Thelma Murray",1,74,"Peru","Lima",1,120.70,30,"2005-06-15","2005-08-21",3
+272,"Kay Caldwell",1,23,"China","Yantai",1,65.87,13,"2005-07-09","2005-08-20",2
+566,"Casey Mena",1,97,"Turkey","Tokat",1,130.68,32,"2005-06-16","2005-08-21",3
+286,"Velma Lucas",1,69,"Nigeria","Effon-Alaiye",1,96.76,24,"2005-07-06","2005-08-23",2
+134,"Emma Boyd",1,29,"Egypt","Qalyub",1,77.81,19,"2005-06-16","2005-08-23",3
+88,"Bonnie Hughes",1,86,"South Korea","Cheju",2,84.80,20,"2005-06-15","2005-08-23",3
+375,"Aaron Selby",1,25,"Congo, The Democratic Republic of the","Mwene-Ditu",2,88.80,20,"2005-06-15","2005-08-23",3
+190,"Yolanda Weaver",1,93,"Tanzania","Tabora",2,102.75,25,"2005-06-15","2006-02-14",9
+349,"Joe Gilliland",1,75,"Philippines","Imus",2,133.72,28,"2005-06-15","2006-02-14",9
+585,"Perry Swafford",1,6,"Argentina","Quilmes",1,117.76,24,"2005-06-15","2006-02-14",9
+22,"Laura Rodriguez",1,62,"Morocco","Sal",1,94.81,19,"2005-06-21","2006-02-14",8
+501,"Ruben Geary",1,76,"Poland","Lublin",1,86.81,19,"2005-06-21","2005-08-23",3
+406,"Nathan Runyon",0,106,"Virgin Islands, U.S.","Charlotte Amalie",1,121.69,31,"2005-06-17","2005-08-21",3
+63,"Ashley Richardson",1,103,"United States","Lincoln",1,112.75,25,"2005-06-16","2005-08-22",3
+73,"Beverly Brooks",1,92,"Taiwan","Chiayi",2,89.78,22,"2005-06-16","2006-02-14",9
+125,"Ethel Webb",1,85,"South Africa","Boksburg",1,131.69,31,"2005-06-15","2005-08-22",3
+191,"Jeanette Greene",1,80,"Russian Federation","Novoterkassk",1,66.82,18,"2005-06-14","2006-02-14",9
+10,"Dorothy Taylor",1,46,"Iran","Esfahan",1,94.76,24,"2005-06-16","2005-08-22",3
+174,"Yvonne Watkins",1,104,"Venezuela","Ocumare del Tuy",2,81.81,19,"2005-06-16","2005-08-23",3
+104,"Rita Graham",1,34,"France","Toulon",1,77.78,22,"2005-06-15","2005-08-22",3
+595,"Terrence Gunderson",1,23,"China","Jinzhou",1,110.71,29,"2005-06-14","2005-08-23",3
+331,"Eric Robert",1,6,"Argentina","Santa F",1,105.78,22,"2005-07-06","2005-08-23",2
+324,"Gary Coy",1,23,"China","Yuzhou",2,95.78,22,"2005-07-06","2006-02-14",8
+452,"Tom Milner",1,101,"United Arab Emirates","Abu Dhabi",1,99.71,29,"2005-06-15","2006-02-14",9
+359,"Willie Markham",1,6,"Argentina","Almirante Brown",2,85.78,22,"2005-06-15","2006-02-14",9
+6,"Jennifer Davis",1,103,"United States","Laredo",2,84.75,25,"2005-06-16","2005-08-23",3
+517,"Brad Mccurdy",1,92,"Taiwan","Chungho",2,100.76,24,"2005-06-16","2005-08-23",3
+414,"Vincent Ralston",1,60,"Mexico","Allende",1,96.77,23,"2005-06-18","2005-08-23",3
+280,"Tracey Barrett",1,69,"Nigeria","Owo",2,103.77,23,"2005-07-08","2005-08-23",2
+166,"Lynn Payne",1,58,"Malawi","Lilongwe",1,121.73,27,"2005-06-15","2005-08-23",3
+240,"Marlene Welch",1,50,"Japan","Iwaki",1,106.77,23,"2005-06-18","2005-08-23",3
+14,"Betty White",1,103,"United States","Citrus Heights",2,96.77,23,"2005-06-15","2006-02-14",9
+115,"Wendy Harrison",1,60,"Mexico","Nezahualcyotl",1,86.73,27,"2005-06-15","2006-02-14",9
+91,"Lois Butler",1,16,"Brunei","Bandar Seri Begawan",2,107.66,34,"2005-06-15","2006-02-14",9
+365,"Bruce Schwarz",1,50,"Japan","Okinawa",2,92.79,21,"2005-06-15","2005-08-21",3
+546,"Kelly Knott",1,23,"China","Sanya",1,90.77,23,"2005-06-15","2005-08-23",3
+551,"Clayton Barbee",1,15,"Brazil","Alvorada",2,75.79,21,"2005-06-17","2005-08-22",3
+371,"Billy Poulin",1,75,"Philippines","Cabuyao",1,123.71,29,"2005-06-15","2005-08-23",3
+594,"Eduardo Hiatt",1,23,"China","Jining",1,108.77,23,"2005-06-16","2005-08-22",3
+93,"Phyllis Foster",1,23,"China","Zalantun",1,76.80,20,"2005-06-18","2005-08-23",3
+51,"Alice Stewart",1,103,"United States","Fontana",1,123.70,30,"2005-06-15","2005-08-22",3
+575,"Isaac Oglesby",1,60,"Mexico","Cuernavaca",2,109.76,24,"2005-06-15","2005-08-23",3
+438,"Barry Lovelace",1,109,"Zambia","Kitwe",1,121.70,30,"2005-06-15","2006-02-14",9
+445,"Micheal Forman",1,6,"Argentina","Escobar",1,96.76,24,"2005-07-07","2005-08-23",2
+447,"Clifford Bowens",1,80,"Russian Federation","Nabereznyje Telny",1,109.73,27,"2005-06-15","2005-08-23",3
+557,"Felix Gaffney",1,56,"Lithuania","Vilnius",1,63.78,22,"2005-06-16","2006-02-14",9
+165,"Lorraine Stephens",1,23,"China","Hami",2,81.80,20,"2005-06-17","2005-08-23",3
+142,"April Burns",1,102,"United Kingdom","Dundee",1,74.77,23,"2005-06-15","2006-02-14",9
+164,"Joann Gardner",1,97,"Turkey","Tarsus",2,64.85,15,"2005-06-16","2005-08-20",3
+283,"Felicia Sutton",1,23,"China","Korla",1,68.77,23,"2005-07-06","2005-08-23",2
+569,"Dave Gardiner",1,23,"China","Leshan",2,113.73,27,"2005-06-15","2005-08-23",3
+213,"Gina Williamson",1,107,"Yemen","Taizz",1,110.73,27,"2005-06-15","2006-02-14",9
+428,"Herbert Kruger",1,80,"Russian Federation","Syktyvkar",2,73.81,19,"2005-06-15","2005-08-17",3
+159,"Jill Hawkins",1,9,"Austria","Linz",1,58.83,17,"2005-06-16","2005-08-22",3
+161,"Geraldine Perkins",1,48,"Israel","Tel Aviv-Jaffa",1,94.76,24,"2005-06-17","2005-08-22",3
+267,"Margie Wade",1,23,"China","Lengshuijiang",1,142.67,33,"2005-06-15","2006-02-14",9
+220,"Charlene Alvarez",1,93,"Tanzania","Zanzibar",2,109.75,25,"2005-06-16","2005-08-23",3
+293,"Mae Fletcher",1,87,"Spain","Donostia-San Sebastin",2,107.79,21,"2005-07-06","2005-08-23",2
+162,"Lauren Hudson",1,34,"France","Le Mans",2,59.83,17,"2005-06-15","2006-02-14",9
+496,"Tyler Wren",1,23,"China","Rizhao",2,82.81,19,"2005-06-19","2006-02-14",9
+419,"Chad Carbone",1,44,"India","Katihar",1,86.76,24,"2005-06-19","2005-08-23",3
+230,"Joy George",1,78,"Romania","Botosani",2,118.69,31,"2005-06-15","2005-08-21",3
+511,"Chester Benner",1,23,"China","Suihua",1,92.78,22,"2005-06-15","2005-08-22",3
+313,"Donald Mahon",1,23,"China","Ezhou",2,63.84,16,"2005-07-08","2005-08-23",2
+68,"Nicole Peterson",1,44,"India","Shivapuri",1,94.78,22,"2005-06-16","2005-08-23",3
+498,"Gene Sanborn",1,71,"Oman","Salala",1,82.76,24,"2005-06-15","2005-08-19",3
+90,"Ruby Washington",1,23,"China","Meixian",2,110.72,28,"2005-06-17","2005-08-23",3
+542,"Lonnie Tirado",1,45,"Indonesia","Pangkal Pinang",2,84.84,16,"2005-06-19","2005-08-22",3
+59,"Cheryl Murphy",1,44,"India","Mysore",1,119.76,24,"2005-06-15","2005-08-23",3
+410,"Curtis Irby",1,20,"Canada","Richmond Hill",2,167.62,38,"2005-06-15","2006-02-14",9
+539,"Mathew Bolin",1,104,"Venezuela","Valencia",1,84.80,20,"2005-06-15","2005-08-22",3
+75,"Tammy Sanders",1,92,"Taiwan","Changhwa",2,149.61,39,"2005-06-17","2006-02-14",9
+490,"Sam Mcduffie",1,24,"Colombia","Sogamoso",1,105.78,22,"2005-06-16","2005-08-23",3
+29,"Angela Hernandez",1,50,"Japan","Shimonoseki",2,138.65,35,"2005-06-19","2006-02-14",9
+403,"Mike Way",1,44,"India","Valparai",1,162.67,33,"2005-06-15","2005-08-22",3
+459,"Tommy Collazo",1,46,"Iran","Qomsheh",1,183.63,37,"2005-06-17","2005-08-23",3
+421,"Lee Hawks",1,44,"India","Pudukkottai",1,117.75,25,"2005-06-16","2006-02-14",9
+462,"Warren Sherrod",1,80,"Russian Federation","Usolje-Sibirskoje",2,152.69,31,"2005-06-16","2005-08-23",3
+180,"Stacy Cunningham",1,24,"Colombia","Pereira",2,95.78,22,"2005-06-19","2006-02-14",9
+580,"Ross Grey",1,75,"Philippines","Iligan",1,98.74,26,"2005-06-15","2005-08-23",3
+409,"Rodney Moeller",1,69,"Nigeria","Deba Habe",2,97.78,22,"2005-06-15","2005-08-21",3
+55,"Doris Reed",1,80,"Russian Federation","Balaiha",2,84.81,19,"2005-06-16","2005-08-22",3
+42,"Carolyn Perez",1,94,"Thailand","Pak Kret",2,111.71,29,"2005-06-16","2006-02-14",9
+342,"Harold Martino",1,15,"Brazil","Boa Vista",1,130.68,32,"2005-06-18","2005-08-23",3
+435,"Ricky Shelby",1,23,"China","Junan",2,78.77,23,"2005-06-15","2005-08-22",3
+145,"Lucille Holmes",1,85,"South Africa","Soshanguve",1,107.73,27,"2005-06-18","2005-08-21",3
